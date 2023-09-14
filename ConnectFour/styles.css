@@ -1,0 +1,51 @@
+.grid {
+    width: 423px;
+    height: 361px;
+    border: solid black 1px;
+    display: flex;
+    flex-wrap: wrap;
+
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.grid div {
+    height: 59px;
+    width: 59px;
+    border: solid gray 1px;
+}
+
+.grid div.taken {
+    border: none;
+}
+
+.player-one {
+    background-color: red;
+    border-radius: 30px;
+}
+
+.player-two {
+    background-color: blue;
+    border-radius: 30px;
+}
+
+#connectFour-title {
+    text-align: center;
+    color: yellowgreen;
+}
+
+#player-display {
+    text-align: center;
+    color:cadetblue;
+}
+
+#current-player {
+    color: red;
+}
+
+#result {
+    text-align: center;
+    text-decoration: wavy;
+}

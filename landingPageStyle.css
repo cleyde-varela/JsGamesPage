@@ -1,0 +1,75 @@
+#title {
+    text-align: center;
+    color: rgb(248, 198, 136);
+}
+
+#panel {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.grid-landing-page {
+    width: 890px;
+    height: 500px;
+    border: solid black 1px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 200px;
+    height: 200px;
+    background-color: #fff;
+    border: solid 1px #ccc;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+
+.label {
+    background-color:bisque;
+    color: black;
+    padding: 20px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 80%;
+    text-align: center;
+}
+
+/* Back button */
+.backBtn{
+    position: fixed;
+    bottom: 0;
+    left: 20px;
+    margin-bottom: 10px;
+    background-color: rgb(248, 198, 136);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.backBtn:hover {
+    background-color: bisque;
+}
+
+#restart-btn-div {
+    text-align: center;
+    margin-top: 3px;
+}
+
+#restart-btn {
+    background-color: pink;
+    border-radius: 4px;
+    color: black;
+    border: none;
+}

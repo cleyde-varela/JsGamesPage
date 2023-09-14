@@ -1,0 +1,31 @@
+#grid {
+    width: 400px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#memory-title {
+    text-align: center;
+    color: orange;
+}
+
+#score-label, #result {
+    text-align: center;
+    color: rgb(249, 148, 165);
+    font-size: 25px;
+}
+
+.alert-div {
+    text-align: center;
+    margin-top: 10px;
+    background-color: purple;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}

@@ -1,0 +1,60 @@
+#rps-title {
+    text-align: center;
+    color: coral;
+}
+
+#user-choice-h2, #computer-choice-h2, #result-h2, #user-choice, #computer-choice {
+    text-align: center;
+}
+
+#user-choice {
+    color:darksalmon
+}
+
+#computer-choice {
+    color: darkseagreen;
+}
+
+#result-h2{
+    color: rgb(206, 192, 59);
+}
+
+#options-btn {
+    text-align: center;
+}
+
+.btn {
+    display: inline-block;
+    padding: 12px 12px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: coral;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .btn:hover {background-color: pink}
+  
+  .btn:active {
+    background-color: coral;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+  #restart-btn {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    background-color: gray;
+    border-radius: 4px;
+    font-size: 15px;
+    color: white;
+    border: none;
+}
