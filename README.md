@@ -23,28 +23,20 @@ It explores some basic Js such as loops, if and switch statements, functions, as
 You can run the code on your local machine using Visual Studio Code👋
 
 ## 📌 Take a look
-<img width="779" alt="1" src="https://github.com/cleyde-varela/JsGamesPage/assets/83819524/5869ee94-10fb-4566-9f1b-d89fdc3907e3">
+<img width="779" alt="1" src="https://github.com/cleyde-varela/JsGamesPage/assets/83819524/3e426fc0-a850-41cf-9aba-bb802c4bb98c">
+
+<img width="588" alt="2" src="https://github.com/cleyde-varela/JsGamesPage/assets/83819524/cf5caadd-664b-4ab4-b13f-cb638326eeea">
+
+<img width="550" alt="3" src="https://github.com/cleyde-varela/JsGamesPage/assets/83819524/e6997830-58cf-46db-a180-dc36c089805e">
+
+<img width="389" alt="4" src="https://github.com/cleyde-varela/JsGamesPage/assets/83819524/32e33df2-1218-4ea5-a8f5-430b7f08b5eb">
 
 
-<img width="588" alt="2" src="https://github.com/cleyde-varela/JsGamesPage/assets/83819524/e8562893-47da-459a-bdfa-7a51b30a7825">
+<img width="479" alt="5" src="https://github.com/cleyde-varela/JsGamesPage/assets/83819524/3bc5f2b4-fc62-4b24-9b5a-5c49c2d2a876">
 
+<img width="571" alt="6" src="https://github.com/cleyde-varela/JsGamesPage/assets/83819524/4badfce6-322e-468a-8e98-0305b25121d9">
 
-<img width="550" alt="3" src="https://github.com/cleyde-varela/JsGamesPage/assets/83819524/00dee618-a201-4353-b7e0-82f5d3e9a954">
-
-
-<img width="389" alt="4" src="https://github.com/cleyde-varela/JsGamesPage/assets/83819524/07dcdec4-a89f-4ebf-9366-1a6d0293eee9">
-
-
-<img width="479" alt="5" src="https://github.com/cleyde-varela/JsGamesPage/assets/83819524/7aabfc19-dded-4f71-bf09-189ecba1b47a">
-
-
-<img width="571" alt="6" src="https://github.com/cleyde-varela/JsGamesPage/assets/83819524/b8567b17-2d7a-4dbb-a318-2d9bcc66ca3e">
-
-
-<img width="461" alt="7" src="https://github.com/cleyde-varela/JsGamesPage/assets/83819524/07d53e0f-5f11-4bdf-ab9b-fde7f5a9bd17">
-
-
-
+<img width="461" alt="7" src="https://github.com/cleyde-varela/JsGamesPage/assets/83819524/5bec74e9-d714-43da-ae17-331cfc4bcb8e">
 
 
 
