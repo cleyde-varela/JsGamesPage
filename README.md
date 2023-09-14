@@ -1,7 +1,7 @@
 # JsGamesPage
 
 ## 📌 About this project
-This page was created in order to compile a collection of simple JavaScript games in an user friendly way. The games uses simple Js code and very minimal CSS styling.
+This page was created in order to compile a collection of simple JavaScript games in an user friendly way. The games use simple Javascript code and very minimal CSS styling.
 * The games were built following the _amazing_ tutorial by **Ania Kubów** (https://github.com/kubowania) at FreeCodeCamp with my personal additions. You can check it at https://www.youtube.com/watch?v=ec8vSKJuZTk, I
 * strongly recommend it for anyone trying to get started on Javascript.
   
